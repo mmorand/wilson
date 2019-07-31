@@ -1,0 +1,11 @@
+{
+  "name": "wilson",
+  "description": "Basic learning project with don't starve charater",
+  "license": "MIT",
+  "repository": "https://github.com/mmorand/wilson",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
